@@ -1,0 +1,324 @@
+[
+    {
+        "id": 1,
+        "name": "Alice",
+        "password": "password123",
+        "sumGames": 10,
+        "allWords": [
+            "word1",
+            "word2"
+        ],
+        "winners": 5,
+        "allGames": []
+    },
+    {
+        "id": 2,
+        "name": "Bob",
+        "password": "password456",
+        "sumGames": 15,
+        "allWords": [
+            "word3",
+            "word4"
+        ],
+        "winners": 7,
+        "allGames": []
+    },
+    {
+        "id": 1,
+        "name": null,
+        "password": null,
+        "sumGames": 0,
+        "allWords": [],
+        "winners": 0,
+        "allGames": []
+    },
+    {
+        "id": 1,
+        "name": "aaa",
+        "password": "888",
+        "sumGames": 0,
+        "allWords": [],
+        "winners": 0,
+        "allGames": []
+    },
+    {
+        "id": 1,
+        "name": "yyy",
+        "password": "632",
+        "sumGames": 0,
+        "allWords": [],
+        "winners": 0,
+        "allGames": []
+    },
+    {
+        "id": 1,
+        "name": "qwe",
+        "password": "123",
+        "sumGames": 0,
+        "allWords": [],
+        "winners": 0,
+        "allGames": []
+    },
+    {
+        "id": 1,
+        "name": "ooo",
+        "password": "741",
+        "sumGames": 0,
+        "allWords": [],
+        "winners": 0,
+        "allGames": []
+    },
+    {
+        "id": 1,
+        "name": "nati",
+        "password": "4411",
+        "sumGames": 10,
+        "allWords": [
+            "elisheva koren",
+            "hellow",
+            "good day",
+            "successful"
+        ],
+        "winners": 4,
+        "allGames": [
+            {
+                "time": "2025-01-18 23:14:18",
+                "word": "elisheva koren",
+                "success": 0
+            },
+            {
+                "time": "2025-01-19 01:38:58",
+                "word": "hellow",
+                "success": 0
+            },
+            {
+                "time": "2025-01-19 04:12:42",
+                "word": "good day",
+                "success": 1
+            },
+            {
+                "time": "2025-01-19 04:13:15",
+                "word": "successful",
+                "success": 0
+            },
+            {
+                "time": "2025-01-19 04:36:41",
+                "word": "good day",
+                "success": 0
+            },
+            {
+                "time": "2025-01-19 04:37:17",
+                "word": "hellow",
+                "success": 1
+            },
+            {
+                "time": "2025-01-19 11:25:22",
+                "word": "successful",
+                "success": 0
+            },
+            {
+                "time": "2025-01-20 15:01:52",
+                "word": "successful",
+                "success": 1
+            },
+            {
+                "time": "2025-01-20 18:34:40",
+                "word": "good day",
+                "success": 0
+            },
+            {
+                "time": "2025-01-20 21:23:19",
+                "word": "elisheva koren",
+                "success": 1
+            }
+        ]
+    },
+    {
+        "id": 1,
+        "name": "elisheva",
+        "password": "1111",
+        "sumGames": 9,
+        "allWords": [
+            "successful",
+            "good night",
+            "good day",
+            "hellow",
+            "elisheva koren"
+        ],
+        "winners": 6,
+        "allGames": [
+            {
+                "time": "2025-01-19 01:50:17",
+                "word": "successful",
+                "success": 0
+            },
+            {
+                "time": "2025-01-19 01:54:20",
+                "word": "successful",
+                "success": 1
+            },
+            {
+                "time": "2025-01-19 03:58:25",
+                "word": "good night",
+                "success": 1
+            },
+            {
+                "time": "2025-01-19 04:02:04",
+                "word": "good day",
+                "success": 1
+            },
+            {
+                "time": "2025-01-19 04:03:03",
+                "word": "good day",
+                "success": 1
+            },
+            {
+                "time": "2025-01-19 04:04:47",
+                "word": "hellow",
+                "success": 0
+            },
+            {
+                "time": "2025-01-20 21:24:39",
+                "word": "hellow",
+                "success": 1
+            },
+            {
+                "time": "2025-01-20 21:25:24",
+                "word": "elisheva koren",
+                "success": 1
+            },
+            {
+                "time": "2025-01-20 21:26:56",
+                "word": "elisheva koren",
+                "success": 0
+            }
+        ]
+    },
+    {
+        "id": 1,
+        "name": "shimi",
+        "password": "7894",
+        "sumGames": 0,
+        "allWords": [],
+        "winners": 0,
+        "allGames": []
+    },
+    {
+        "id": 1,
+        "name": "chani",
+        "password": "7410",
+        "sumGames": 2,
+        "allWords": [
+            "good night",
+            "good day"
+        ],
+        "winners": 1,
+        "allGames": [
+            {
+                "time": "2025-01-19 04:20:48",
+                "word": "good night",
+                "success": 1
+            },
+            {
+                "time": "2025-01-19 04:21:12",
+                "word": "good day",
+                "success": 0
+            }
+        ]
+    },
+    {
+        "id": 1,
+        "name": "Avigil",
+        "password": "6009",
+        "sumGames": 1,
+        "allWords": [
+            "elisheva koren"
+        ],
+        "winners": 1,
+        "allGames": [
+            {
+                "time": "2025-01-19 11:23:28",
+                "word": "elisheva koren",
+                "success": 1
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "name": "nevhami",
+        "password": "4477",
+        "sumGames": 0,
+        "allWords": [],
+        "winners": 0,
+        "allGames": []
+    },
+    {
+        "id": 1,
+        "name": "wear",
+        "password": "4444",
+        "sumGames": 1,
+        "allWords": [
+            "good day"
+        ],
+        "winners": 1,
+        "allGames": [
+            {
+                "time": "2025-01-20 15:06:15",
+                "word": "good day",
+                "success": 1
+            }
+        ]
+    },
+    {
+        "id": 1,
+        "name": "yasmin",
+        "password": "123456",
+        "sumGames": 1,
+        "allWords": [
+            "good day"
+        ],
+        "winners": 1,
+        "allGames": [
+            {
+                "time": "2025-01-20 15:41:19",
+                "word": "good day",
+                "success": 1
+            }
+        ]
+    },
+    {
+        "id": 1,
+        "name": "dovid",
+        "password": "4429",
+        "sumGames": 1,
+        "allWords": [
+            "good day"
+        ],
+        "winners": 1,
+        "allGames": [
+            {
+                "time": "2025-01-21 21:44:46",
+                "word": "good day",
+                "success": 1
+            }
+        ]
+    },
+    {
+        "id": 1,
+        "name": "nati",
+        "password": "4444",
+        "sumGames": 0,
+        "allWords": [],
+        "winners": 0,
+        "allGames": []
+    },
+    {
+        "id": 1,
+        "name": "nati",
+        "password": "444",
+        "sumGames": 0,
+        "allWords": [],
+        "winners": 0,
+        "allGames": []
+    }
+]
